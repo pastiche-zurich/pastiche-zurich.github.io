@@ -3,7 +3,7 @@ section#hero
   PasticheLogo
   .infobox
     p Pastiche GmbH
-    p Interactive Design &amp; Development
+    p Design &amp; Development Consultancy
     p Zürich, Switzerland
     p 
       a(href="mailto:info@pastiche.io") info@pastiche.io
