@@ -14,7 +14,7 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
-    "node-sass": "^4.8.3",
+    "node-sass": "^4.11.0",
     "nuxt": "^1.0.0",
     "pug": "^2.0.3",
     "push-dir": "^0.4.1",

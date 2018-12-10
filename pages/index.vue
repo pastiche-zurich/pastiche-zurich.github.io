@@ -1,7 +1,8 @@
 <template lang="pug">
 section#hero
-  BubbleLetters
+  PasticheLogo
   .infobox
+    p Pastiche GmbH
     p Interactive Design &amp; Development
     p Zürich, Switzerland
     p 
@@ -9,11 +10,11 @@ section#hero
 </template>
 
 <script>
-import BubbleLetters from '~/components/BubbleLetters.vue'
+import PasticheLogo from '~/components/PasticheLogo.vue'
 
 export default {
   components: {
-    BubbleLetters
+    PasticheLogo
   }
 }
 </script>
@@ -21,20 +22,24 @@ export default {
 <style lang="scss" scoped>
 #hero {
   height: 100vh;
+  padding: 5vw;
 }
+
+.logo {
+  fill: currentColor;
+}
+
 .infobox {
   display: block;
   position: absolute;
-  bottom: 2rem;
-  right: 2rem;
-  color: #3c485e;
-  letter-spacing: .02rem;
+  bottom: 5vw;
+  right: 5vw;
   line-height: 1.6;
-  font-weight: 300;
   text-align: right;
+  font-weight: 500;
 
   a {
-    color: #3c485e;
+    color: salmon;
   }
 }
 </style>
