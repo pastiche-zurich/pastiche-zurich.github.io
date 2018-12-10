@@ -1,6 +1,6 @@
 # pastiche-web
 
-> The website of Pastiche Zürich
+> The website of Pastiche Zürich. Nick Niles owner.
 
 ## Build Setup
 
