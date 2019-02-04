@@ -8,7 +8,7 @@ section#hero
       p Design &amp; Development Consultancy
       p Zürich, Switzerland
       p 
-        a(href="mailto:info@pastiche.io") info@pastiche.io
+        a(href="mailto:nick@pastiche.io") nick@pastiche.io
 </template>
 
 <script>
